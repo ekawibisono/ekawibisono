@@ -10,13 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekawibisono&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ekawibisono&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ekawibisono&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=ekawibisono&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ekawibisono&icon=5&color=8)](https://visitcount.itsvg.in)
