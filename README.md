@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ekawibisono&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
