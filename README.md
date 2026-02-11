@@ -1,26 +1,26 @@
 # 💫 About Me:
-👋 Halo! Saya **Ekacitta Wibisono**, seorang IT Professional dari Semarang yang memiliki fondasi kuat di bidang Hardware Support dan Web Development.
+👋 Hi! I'm **Ekacitta Wibisono**, an IT Professional from Semarang with a strong foundation in Hardware Support and Web Development.
 
-🚀 **Proyek Unggulan:**
-* **Laundry Web App (Ongoing)**: Sistem manajemen laundry dengan akses Membership dan Admin.
-* **Portal Aset Riche Chain**: Automasi integrasi logo token pada explorer Richescan Mainnet.
-* **Kedai Yuru**: Solusi web untuk manajemen operasional retail.
-* **Cubi Kost Landing Page**: Desain landing page responsif untuk penyewaan properti.
-* **Cubi Kost Network**: Instalasi WiFi, CCTV, dan manajemen bandwidth Mikrotik.
+🚀 **Featured Projects:**
+* **Laundry Web App (Ongoing)**: A scalable management system featuring Membership and Admin-only access.
+* **Portal Aset Riche Chain**: A full-stack system to automate token logo integration on the Richescan Mainnet explorer.
+* **Kedai Yuru**: A complete web solution built to streamline retail operations and management.
+* **Cubi Kost Landing Page**: A high-conversion, responsive landing page optimized for property leasing.
+* **Cubi Kost Network**: Comprehensive WiFi & CCTV installation using Mikrotik for bandwidth management.
 
-🌱 **Sedang Mendalami:**
-* Pengembangan solusi berbasis **Artificial Intelligence (AI)** dan optimasi arsitektur sistem.
+🌱 **Currently Learning:**
+* Developing **Artificial Intelligence (AI)** driven solutions and optimizing system architecture.
 
-🤝 **Kontribusi Komunitas:**
-* **Blockscout Community**: Tech Community Contributor (Troubleshooting & Bug Reporting).
+🤝 **Community Contribution:**
+* **Blockscout Community**: Tech Community Contributor (GitHub troubleshooting, bug reporting, and Discord support).
 
-💬 **Tanya saya tentang:**
+💬 **Ask me about:**
 * Full Stack Development (Node.js, Express, React).
-* Infrastruktur Jaringan (Mikrotik, CCTV, WiFi).
+* Network Infrastructure (Mikrotik, CCTV, WiFi).
 * Server Administration & Shell Scripting (Ubuntu, Nginx).
 
 ⚡ **Fun Fact:**
-* Pernah menjadi Lead Technician yang menjembatani operasional teknis cabang dengan kantor pusat.
+* Served as a Lead Technician bridging technical operations between a branch and headquarters.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
